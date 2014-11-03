@@ -1,0 +1,12 @@
+#hello world RFC
+
+tcp
+port - 7313
+send a message
+receive a reply
+
+##over tcp:7313
+
+req: hello (case insensitive)
+rep: world
+
